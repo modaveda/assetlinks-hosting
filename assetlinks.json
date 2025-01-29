@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.app.modaveda",
-    "sha256_cert_fingerprints":
-    ["49:8D:23:21:74:F9:94:EF:28:4C:08:1C:F0:1B:1A:F5:B0:07:DA:55:18:12:5D:4B:76:76:FF:CF:C0:EE:87:20"]
-  }
-}]
